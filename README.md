@@ -57,7 +57,7 @@ Here are some projects I am working on:
 
 ## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/saad-el-aissaoui-73b498294?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+* LinkedIn: (https://www.linkedin.com/in/saad-el-aissaoui-73b498294/)
 * Email: saadelaissaoui2002@gmail.com
 
 ---
