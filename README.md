@@ -1,6 +1,6 @@
 # Hi, I'm Saad 👋
 
-![Banner](https://link-to-your-banner-image.png)
+
 
 🎓 IT Engineering Student  
 💻 Passionate about Software Development, Artificial Intelligence, and Cybersecurity  
@@ -10,8 +10,8 @@
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-17-lightblue?logo=c%2B%2B&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-lightblue?logo=c%2B%2B&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
